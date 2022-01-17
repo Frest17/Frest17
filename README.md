@@ -1,4 +1,4 @@
-### Hi there 👋
+### A computer engineering student who know that knows nothing.
 
 <!--
 **Frest17/Frest17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
