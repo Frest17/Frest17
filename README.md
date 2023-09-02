@@ -2,7 +2,7 @@
 
 <br>
 <p align='left'>Welcome to this profile!</p>
-<img align='right' width='600' src='https://media.tenor.com/75Jh3TstURcAAAAC/silverwolf-honkai-star-rail.gif' />
+<img align='right' width='540' src='https://media.tenor.com/75Jh3TstURcAAAAC/silverwolf-honkai-star-rail.gif' />
 
 <br>
 <h1>Who is this?</h1>
@@ -24,3 +24,4 @@
 - also a little bit of C#
 
 ## Thats all I guess.
+<img align='center' width='600' src='https://media.tenor.com/Z-qCHXJsDwoAAAAC/kafka.gif' />
