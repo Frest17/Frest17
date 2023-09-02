@@ -6,9 +6,9 @@
 
 <br>
 <h1>Who is this?</h1>
-<p align='center'>I'm someone who codes some stuff and knows a bit about computers.</p>
+<p align='center'>I'm someone who codes some stuff and knows a bit about computers. This is probably not my main profile btw.</p>
 <ul>
-  <li>I'm currently working on Vue JS stuff</li>
+  <li>I'm currently working with the Laravel/Vue stack</li>
   <li>I'm currently learning Inertia JS for a Laravel backend</li>
   <li>I'm looking to collaborate on ... nothing really, I do my own projects</li>
   <li>Fun fact: I added this just so that the list have 4 items because I like even numbers</li>
